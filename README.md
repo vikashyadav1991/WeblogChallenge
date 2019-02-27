@@ -1,6 +1,12 @@
 # WeblogChallenge
 This is an interview challenge for Paytm Labs. 
 
+## Additional Python Libraries
+user-agent
+
+## Code Execution Command
+`spark-submit analysis.py`
+
 The challenge is to make make analytical observations about the data using the distributed tools below.
 
 ## Processing & Analytical goals:
@@ -21,8 +27,4 @@ The challenge is to make make analytical observations about the data using the d
 
 3. Predict the number of unique URL visits by a given IP
 
-## Additional Python Libraries
-user-agent
 
-## Code Execution Command
-spark-submit analysis.py
