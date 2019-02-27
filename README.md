@@ -21,7 +21,7 @@ The challenge is to make make analytical observations about the data using the d
 
 3. Predict the number of unique URL visits by a given IP
 
-## Python Libraries
+## Additional Python Libraries
 user-agent
 
 ## Code Execution Command
