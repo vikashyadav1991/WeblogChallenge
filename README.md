@@ -7,6 +7,8 @@ user-agent
 ## Code Execution Command
 `spark-submit analysis.py`
 
+`analysis.ipynb` contains the jupyter notebook execution of the same code.
+
 The challenge is to make make analytical observations about the data using the distributed tools below.
 
 ## Processing & Analytical goals:
